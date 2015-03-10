@@ -1,0 +1,10 @@
+F:\C#\SocketTCP\network\bin\Release\network.dll
+F:\C#\SocketTCP\network\bin\Release\network.pdb
+F:\C#\SocketTCP\network\obj\Release\ResolveAssemblyReference.cache
+F:\C#\SocketTCP\network\obj\Release\network.dll
+F:\C#\SocketTCP\network\obj\Release\network.pdb
+F:\C#\network\network\bin\Release\network.dll
+F:\C#\network\network\bin\Release\network.pdb
+F:\C#\network\network\obj\Release\ResolveAssemblyReference.cache
+F:\C#\network\network\obj\Release\network.dll
+F:\C#\network\network\obj\Release\network.pdb
